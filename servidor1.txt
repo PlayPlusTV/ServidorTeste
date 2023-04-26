@@ -1,0 +1,933 @@
+#EXTM3U
+#EXTINF:-1,3 PALAVRINHAS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/723
+#EXTINF:-1,A CASA DO MICKEY MOUSE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/724
+#EXTINF:-1,A&E HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/458
+#EXTINF:-1,A&E UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/300
+#EXTINF:-1,ACAO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/721
+#EXTINF:-1,AGRO MAIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/547
+#EXTINF:-1,AMC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/301
+#EXTINF:-1,AMC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/425
+#EXTINF:-1,ANIMACAO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/720
+#EXTINF:-1,ANIMAL PLANET 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/522
+#EXTINF:-1,ANIMAL PLANET HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/302
+#EXTINF:-1,ANIMAL PLANET LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/686
+#EXTINF:-1,ANIMAL PLANET UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/436
+#EXTINF:-1,ARTE 1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/303
+#EXTINF:-1,ARTE 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/426
+#EXTINF:-1,AS AVENTURAS DO BATMAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/725
+#EXTINF:-1,AXN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/304
+#EXTINF:-1,AXN UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/427
+#EXTINF:-1,BABY TV PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/669
+#EXTINF:-1,BAND 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/538
+#EXTINF:-1,BAND HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/305
+#EXTINF:-1,BAND MINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/726
+#EXTINF:-1,BAND NEWS 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/537
+#EXTINF:-1,BAND NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/308
+#EXTINF:-1,BAND NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/307
+#EXTINF:-1,BAND NORDESTE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/727
+#EXTINF:-1,BAND SP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/613
+#EXTINF:-1,BAND SPORTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/310
+#EXTINF:-1,BAND SPORTS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/309
+#EXTINF:-1,BAND UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/306
+#EXTINF:-1,BBB 2023 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/761
+#EXTINF:-1,BBB 2023 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/760
+#EXTINF:-1,BBB ACADEMIA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/767
+#EXTINF:-1,BBB CAMAROTE E PIPOCA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/775
+#EXTINF:-1,BBB COZINHA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/768
+#EXTINF:-1,BBB JARDIM
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/769
+#EXTINF:-1,BBB MOSAICO
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/770
+#EXTINF:-1,BBB PISCINA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/771
+#EXTINF:-1,BBB QUARTO DESERTO
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/772
+#EXTINF:-1,BBB QUARTO FUNDO DO MAR
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/773
+#EXTINF:-1,BBB SALA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/774
+#EXTINF:-1,BBB VARANDA
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/766
+#EXTINF:-1,beIN SPORTS 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/597
+#EXTINF:-1,beIN SPORTS 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/598
+#EXTINF:-1,beIN SPORTS 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/599
+#EXTINF:-1,beIN SPORTS 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/600
+#EXTINF:-1,beIN SPORTS 5
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/601
+#EXTINF:-1,beIN SPORTS 6
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/602
+#EXTINF:-1,beIN SPORTS 7
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/603
+#EXTINF:-1,beIN SPORTS PREMIUM 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/604
+#EXTINF:-1,beIN SPORTS PREMIUM 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/605
+#EXTINF:-1,beIN SPORTS PREMIUM 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/606
+#EXTINF:-1,BIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/452
+#EXTINF:-1,BOB ESPONJA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/729
+#EXTINF:-1,BOOMERANG LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/687
+#EXTINF:-1,CAMPEONATO CARIOCA 01
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/617
+#EXTINF:-1,CAMPEONATO CARIOCA 02
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/618
+#EXTINF:-1,CAMPEONATO CARIOCA 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/728
+#EXTINF:-1,CANAL BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/543
+#EXTINF:-1,CANAL DO BOI HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/552
+#EXTINF:-1,CANAL PANDA PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/675
+#EXTINF:-1,CANCAO NOVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/699
+#EXTINF:-1,CANCAO NOVA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/698
+#EXTINF:-1,CARTOON NETWORK HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/252
+#EXTINF:-1,CARTOON NETWORK LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/688
+#EXTINF:-1,CARTOON NETWORK PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/674
+#EXTINF:-1,CARTOON NETWORK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/251
+#EXTINF:-1,CARTOONITO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/530
+#EXTINF:-1,CARTOONITO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/281
+#EXTINF:-1,CARTOONITO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/280
+#EXTINF:-1,CHAVES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/712
+#EXTINF:-1,CINEMAX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/311
+#EXTINF:-1,CINEMAX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/312
+#EXTINF:-1,CNN BRASIL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/518
+#EXTINF:-1,CNN BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/313
+#EXTINF:-1,CNN ESPANHOL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/315
+#EXTINF:-1,CNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/730
+#EXTINF:-1,COMBATE 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/502
+#EXTINF:-1,COMBATE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/283
+#EXTINF:-1,COMBATE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/282
+#EXTINF:-1,COMEDIA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/719
+#EXTINF:-1,COMEDY CENTRAL 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/513
+#EXTINF:-1,COMEDY CENTRAL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/446
+#EXTINF:-1,COPA DO BRASIL 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/614
+#EXTINF:-1,COPA DO BRASIL 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/615
+#EXTINF:-1,CURTA! 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/539
+#EXTINF:-1,CURTA! HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/316
+#EXTINF:-1,CURTA! UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/317
+#EXTINF:-1,DAZN 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/459
+#EXTINF:-1,DAZN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/460
+#EXTINF:-1,DAZN 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/461
+#EXTINF:-1,DAZN 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/462
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/521
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/318
+#EXTINF:-1,DISCOVERY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/689
+#EXTINF:-1,DISCOVERY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/673
+#EXTINF:-1,DISCOVERY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/319
+#EXTINF:-1,DISCOVERY CIVILIZATION LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/690
+#EXTINF:-1,DISCOVERY H&H 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/523
+#EXTINF:-1,DISCOVERY H&H HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/320
+#EXTINF:-1,DISCOVERY H&H UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/432
+#EXTINF:-1,DISCOVERY HOME&HEALTH LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/676
+#EXTINF:-1,DISCOVERY ID HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/369
+#EXTINF:-1,DISCOVERY ID LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/691
+#EXTINF:-1,DISCOVERY ID PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/672
+#EXTINF:-1,DISCOVERY ID UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/370
+#EXTINF:-1,DISCOVERY KIDS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/255
+#EXTINF:-1,DISCOVERY KIDS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/254
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/321
+#EXTINF:-1,DISCOVERY SCIENCE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/435
+#EXTINF:-1,DISCOVERY SHOWCASE PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/671
+#EXTINF:-1,DISCOVERY TEATHER LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/692
+#EXTINF:-1,DISCOVERY THEATER HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/322
+#EXTINF:-1,DISCOVERY THEATER UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/323
+#EXTINF:-1,DISCOVERY TLC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/693
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/520
+#EXTINF:-1,DISCOVERY TURBO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/324
+#EXTINF:-1,DISCOVERY TURBO LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/694
+#EXTINF:-1,DISCOVERY TURBO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/433
+#EXTINF:-1,DISCOVERY WORLD HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/325
+#EXTINF:-1,DISCOVERY WORLD LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/685
+#EXTINF:-1,DISCOVERY WORLD UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/434
+#EXTINF:-1,DISNEY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/257
+#EXTINF:-1,DISNEY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/684
+#EXTINF:-1,DISNEY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/670
+#EXTINF:-1,DISNEY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/256
+#EXTINF:-1,DISNEY CLASSICO 01 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/258
+#EXTINF:-1,DISNEY CLASSICO 02 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/259
+#EXTINF:-1,DOG TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/549
+#EXTINF:-1,DOIS HOMENS E MEIO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/711
+#EXTINF:-1,DRAMA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/722
+#EXTINF:-1,E! 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/515
+#EXTINF:-1,E! HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/326
+#EXTINF:-1,E! UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/327
+#EXTINF:-1,ELEVEN  5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/574
+#EXTINF:-1,ELEVEN  7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/572
+#EXTINF:-1,ELEVEN  8 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/571
+#EXTINF:-1,ELEVEN  9 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/570
+#EXTINF:-1,ELEVEN 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/578
+#EXTINF:-1,ELEVEN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/577
+#EXTINF:-1,ELEVEN 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/576
+#EXTINF:-1,ELEVEN 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/575
+#EXTINF:-1,ELEVEN 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/573
+#EXTINF:-1,EM BUSCA DO VALE ENCANTADO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/731
+#EXTINF:-1,EPTV CAMPINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/632
+#EXTINF:-1,ESPN  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/334
+#EXTINF:-1,ESPN  UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/335
+#EXTINF:-1,ESPN 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/330
+#EXTINF:-1,ESPN 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/331
+#EXTINF:-1,ESPN 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/328
+#EXTINF:-1,ESPN 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/329
+#EXTINF:-1,ESPN 4 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/504
+#EXTINF:-1,ESPN 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/344
+#EXTINF:-1,ESPN 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/345
+#EXTINF:-1,ESPN EXTRA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/332
+#EXTINF:-1,ESPN EXTRA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/333
+#EXTINF:-1,EUROSPORT 1 HD PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/668
+#EXTINF:-1,EUROSPORT HD PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/667
+#EXTINF:-1,FASHION TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/550
+#EXTINF:-1,FEC BEN 10
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/590
+#EXTINF:-1,FEC CAVALEIROS DO ZODIACO 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/591
+#EXTINF:-1,FEC CAVERNA DO DRAGÃO
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/592
+#EXTINF:-1,FEC GALINHA PINTADINHA 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/593
+#EXTINF:-1,FEC MENINAS SUPERPODEROSAS 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/596
+#EXTINF:-1,FEC PIPOCA 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/556
+#EXTINF:-1,FEC PIPOCA 10 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/565
+#EXTINF:-1,FEC PIPOCA 11 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/566
+#EXTINF:-1,FEC PIPOCA 12 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/567
+#EXTINF:-1,FEC PIPOCA 13 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/568
+#EXTINF:-1,FEC PIPOCA 14 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/569
+#EXTINF:-1,FEC PIPOCA 2 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/557
+#EXTINF:-1,FEC PIPOCA 3 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/558
+#EXTINF:-1,FEC PIPOCA 4 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/559
+#EXTINF:-1,FEC PIPOCA 5 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/560
+#EXTINF:-1,FEC PIPOCA 6 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/561
+#EXTINF:-1,FEC PIPOCA 7 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/562
+#EXTINF:-1,FEC PIPOCA 8 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/563
+#EXTINF:-1,FEC PIPOCA 9 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/564
+#EXTINF:-1,FEC TIMÃO E PUMBA 
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/595
+#EXTINF:-1,FILM & ARTS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/492
+#EXTINF:-1,FILM & ARTS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/336
+#EXTINF:-1,FISH TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/337
+#EXTINF:-1,FISH TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/437
+#EXTINF:-1,FOOD NETWORK HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/732
+#EXTINF:-1,FOOD NETWORK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/338
+#EXTINF:-1,FORMIGA ATOMICA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/733
+#EXTINF:-1,FOX SPORTS 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/342
+#EXTINF:-1,FOX SPORTS 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/343
+#EXTINF:-1,FREAKAZOID HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/734
+#EXTINF:-1,FUTURA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/346
+#EXTINF:-1,FUTURA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/347
+#EXTINF:-1,FX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/484
+#EXTINF:-1,FX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/348
+#EXTINF:-1,GLOBO BRASILIA 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/509
+#EXTINF:-1,GLOBO BRASILIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/290
+#EXTINF:-1,GLOBO BRASILIA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/289
+#EXTINF:-1,GLOBO MINAS 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/507
+#EXTINF:-1,GLOBO MINAS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/293
+#EXTINF:-1,GLOBO MINAS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/284
+#EXTINF:-1,GLOBO NEWS 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/519
+#EXTINF:-1,GLOBO NEWS DF UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/735
+#EXTINF:-1,GLOBO NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/295
+#EXTINF:-1,GLOBO NEWS SP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/709
+#EXTINF:-1,GLOBO NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/285
+#EXTINF:-1,GLOBO NORDESTE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/291
+#EXTINF:-1,GLOBO NORDESTE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/287
+#EXTINF:-1,GLOBO PREMIUM PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/666
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/616
+#EXTINF:-1,GLOBO RJ 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/508
+#EXTINF:-1,GLOBO RJ HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/292
+#EXTINF:-1,GLOBO RJ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/286
+#EXTINF:-1,GLOBO RPC CURITIBA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/620
+#EXTINF:-1,GLOBO SANTOS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/625
+#EXTINF:-1,GLOBO SP 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/506
+#EXTINF:-1,GLOBO SP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/294
+#EXTINF:-1,GLOBO SP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/288
+#EXTINF:-1,GLOOB 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/526
+#EXTINF:-1,GLOOB HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/265
+#EXTINF:-1,GLOOB UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/264
+#EXTINF:-1,GLOOBINHO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/525
+#EXTINF:-1,GLOOBINHO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/267
+#EXTINF:-1,GLOOBINHO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/266
+#EXTINF:-1,GNT 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/517
+#EXTINF:-1,GNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/349
+#EXTINF:-1,H2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/350
+#EXTINF:-1,H2 LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/683
+#EXTINF:-1,H2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/438
+#EXTINF:-1,HBO 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/353
+#EXTINF:-1,HBO 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/354
+#EXTINF:-1,HBO FAMILY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/357
+#EXTINF:-1,HBO FAMILY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/358
+#EXTINF:-1,HBO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/355
+#EXTINF:-1,HBO MAX 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/463
+#EXTINF:-1,HBO MAX 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/464
+#EXTINF:-1,HBO MAX 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/465
+#EXTINF:-1,HBO MAX 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/466
+#EXTINF:-1,HBO MUNDI HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/367
+#EXTINF:-1,HBO MUNDI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/368
+#EXTINF:-1,HBO PLUS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/361
+#EXTINF:-1,HBO PLUS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/362
+#EXTINF:-1,HBO POP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/365
+#EXTINF:-1,HBO POP UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/366
+#EXTINF:-1,HBO SIGNATURE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/359
+#EXTINF:-1,HBO SIGNATURE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/360
+#EXTINF:-1,HBO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/356
+#EXTINF:-1,HBO XTREME HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/363
+#EXTINF:-1,HBO XTREME UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/364
+#EXTINF:-1,HE-MAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/739
+#EXTINF:-1,HGTV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/554
+#EXTINF:-1,HISTORY 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/524
+#EXTINF:-1,HISTORY CHANNEL PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/665
+#EXTINF:-1,HISTORY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/351
+#EXTINF:-1,HISTORY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/352
+#EXTINF:-1,HOMEM ARANHA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/740
+#EXTINF:-1,HOMEM DE FERRO  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/741
+#EXTINF:-1,I-SAT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/742
+#EXTINF:-1,INTER TV CABUGI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/629
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/449
+#EXTINF:-1,JOVEM PAN NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/450
+#EXTINF:-1,LIFETIME HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/555
+#EXTINF:-1,LIKE  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/542
+#EXTINF:-1,MARVEL E DC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/717
+#EXTINF:-1,MASHA E O URSO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/738
+#EXTINF:-1,MEGAPIX HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/491
+#EXTINF:-1,MEGAPIX UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/371
+#EXTINF:-1,MODO VIAGEM UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/545
+#EXTINF:-1,MORANGUINHO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/737
+#EXTINF:-1,MOTOR VISION PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/664
+#EXTINF:-1,MTV LIVE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/443
+#EXTINF:-1,MTV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/453
+#EXTINF:-1,MTV'S 00 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/512
+#EXTINF:-1,MTV'S 00 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/454
+#EXTINF:-1,MULTISHOW  4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/516
+#EXTINF:-1,MULTISHOW UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/372
+#EXTINF:-1,MUSIC BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/445
+#EXTINF:-1,NARUTO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/736
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/373
+#EXTINF:-1,NATIONAL GEOGRAPHIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/682
+#EXTINF:-1,NATIONAL GEOGRAPHIC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/439
+#EXTINF:-1,NHK UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/708
+#EXTINF:-1,NICK JR HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/271
+#EXTINF:-1,NICK JR LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/681
+#EXTINF:-1,NICK JR PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/663
+#EXTINF:-1,NICK JR UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/270
+#EXTINF:-1,NICK MUSIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/680
+#EXTINF:-1,NICKELODEON 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/528
+#EXTINF:-1,NICKELODEON HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/273
+#EXTINF:-1,NICKELODEON PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/662
+#EXTINF:-1,NICKELODEON UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/272
+#EXTINF:-1,NOSSO FUTEBOL 1
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/762
+#EXTINF:-1,NOSSO FUTEBOL 2
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/763
+#EXTINF:-1,NOSSO FUTEBOL 3
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/764
+#EXTINF:-1,NOSSO FUTEBOL 4
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/765
+#EXTINF:-1,NSPORTS 1 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/642
+#EXTINF:-1,NSPORTS 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/643
+#EXTINF:-1,OFF HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/546
+#EXTINF:-1,PAI ETERNO 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/536
+#EXTINF:-1,PAI ETERNO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/428
+#EXTINF:-1,PANDA BIGGS PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/661
+#EXTINF:-1,PARAMOUNT 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/541
+#EXTINF:-1,PARAMOUNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/375
+#EXTINF:-1,PARAMOUNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/455
+#EXTINF:-1,PARAMOUNT+ 1 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/780
+#EXTINF:-1,PARAMOUNT+ 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/781
+#EXTINF:-1,PARAMOUNT+ 3 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/782
+#EXTINF:-1,PARAMOUNT+ 4 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/783
+#EXTINF:-1,PEPPA PIG HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/750
+#EXTINF:-1,PEQUENA SEREIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/751
+#EXTINF:-1,PERNALONGA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/752
+#EXTINF:-1,PINK E CEREBRO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/715
+#EXTINF:-1,POKEMON HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/716
+#EXTINF:-1,POLISHOP HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/749
+#EXTINF:-1,PREMIERE 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/532
+#EXTINF:-1,PREMIERE 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/377
+#EXTINF:-1,PREMIERE 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/482
+#EXTINF:-1,PREMIERE 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/378
+#EXTINF:-1,PREMIERE 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/481
+#EXTINF:-1,PREMIERE 4 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/379
+#EXTINF:-1,PREMIERE 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/480
+#EXTINF:-1,PREMIERE 5 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/380
+#EXTINF:-1,PREMIERE 5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/479
+#EXTINF:-1,PREMIERE 6 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/381
+#EXTINF:-1,PREMIERE 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/478
+#EXTINF:-1,PREMIERE 7 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/382
+#EXTINF:-1,PREMIERE 7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/477
+#EXTINF:-1,PREMIERE 8 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/383
+#EXTINF:-1,PREMIERE 8 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/476
+#EXTINF:-1,PREMIERE 9 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/384
+#EXTINF:-1,PREMIERE 9 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/475
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/531
+#EXTINF:-1,PREMIERE CLUBES HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/376
+#EXTINF:-1,PREMIERE CLUBES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/483
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/386
+#EXTINF:-1,PRIME BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/385
+#EXTINF:-1,RAI ITALIA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/707
+#EXTINF:-1,RBI UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/701
+#EXTINF:-1,RECORD 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/511
+#EXTINF:-1,RECORD HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/387
+#EXTINF:-1,RECORD NEWS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/388
+#EXTINF:-1,RECORD NEWS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/706
+#EXTINF:-1,RECORD RJ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/633
+#EXTINF:-1,RECORD UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/496
+#EXTINF:-1,REDE AMAZONICA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/622
+#EXTINF:-1,REDE BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/746
+#EXTINF:-1,REDE GOSPEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/697
+#EXTINF:-1,REDE SUPER HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/696
+#EXTINF:-1,REDE TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/389
+#EXTINF:-1,REDE TV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/495
+#EXTINF:-1,REDE VIDA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/390
+#EXTINF:-1,SABOR & ARTE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/747
+#EXTINF:-1,SBT 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/510
+#EXTINF:-1,SBT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/391
+#EXTINF:-1,SBT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/392
+#EXTINF:-1,SHOPTIME UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/748
+#EXTINF:-1,SKY SPORTS F1 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/660
+#EXTINF:-1,SMITHSONIAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/451
+#EXTINF:-1,SMITHSONIAN UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/493
+#EXTINF:-1,SONY CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/393
+#EXTINF:-1,SONY CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/394
+#EXTINF:-1,SPACE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/395
+#EXTINF:-1,SPACE UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/448
+#EXTINF:-1,SPORT TV 1 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/659
+#EXTINF:-1,SPORT TV 2 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/658
+#EXTINF:-1,SPORT TV 3 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/657
+#EXTINF:-1,SPORT TV 4 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/656
+#EXTINF:-1,SPORT TV 5 PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/655
+#EXTINF:-1,SPORT TV+ PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/654
+#EXTINF:-1,SPORTING PT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/653
+#EXTINF:-1,SPORTV 1 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/503
+#EXTINF:-1,SPORTV 1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/396
+#EXTINF:-1,SPORTV 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/474
+#EXTINF:-1,SPORTV 2 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/533
+#EXTINF:-1,SPORTV 2 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/397
+#EXTINF:-1,SPORTV 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/473
+#EXTINF:-1,SPORTV 3 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/398
+#EXTINF:-1,SPORTV 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/472
+#EXTINF:-1,STAR + 1 4k
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/505
+#EXTINF:-1,STAR + 1 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/467
+#EXTINF:-1,STAR + 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/468
+#EXTINF:-1,STAR + 3 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/469
+#EXTINF:-1,STAR CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/490
+#EXTINF:-1,STAR CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/399
+#EXTINF:-1,STAR+ 4 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/470
+#EXTINF:-1,STAR+ 5 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/776
+#EXTINF:-1,STAR+ 6 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/777
+#EXTINF:-1,STAR+ 7 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/778
+#EXTINF:-1,STAR+ 8 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/779
+#EXTINF:-1,STREET FIGHTER  HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/718
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/489
+#EXTINF:-1,STUDIO UNIVERSAL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/444
+#EXTINF:-1,SUPER MAN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/714
+#EXTINF:-1,SYFY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/488
+#EXTINF:-1,SYFY UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/400
+#EXTINF:-1,TBS HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/401
+#EXTINF:-1,TBS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/487
+#EXTINF:-1,TCM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/402
+#EXTINF:-1,TELECINE ACTION HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/407
+#EXTINF:-1,TELECINE ACTION UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/408
+#EXTINF:-1,TELECINE CULT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/409
+#EXTINF:-1,TELECINE CULT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/410
+#EXTINF:-1,TELECINE FUN HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/411
+#EXTINF:-1,TELECINE FUN UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/412
+#EXTINF:-1,TELECINE PIPOCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/413
+#EXTINF:-1,TELECINE PIPOCA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/414
+#EXTINF:-1,TELECINE PREMIUM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/415
+#EXTINF:-1,TELECINE PREMIUM UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/416
+#EXTINF:-1,TELECINE TOUCH HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/417
+#EXTINF:-1,TELECINE TOUCH UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/418
+#EXTINF:-1,TLC HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/403
+#EXTINF:-1,TLC UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/404
+#EXTINF:-1,TNT ESPORTES LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/679
+#EXTINF:-1,TNT HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/405
+#EXTINF:-1,TNT SERIES 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/540
+#EXTINF:-1,TNT SERIES HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/406
+#EXTINF:-1,TNT SERIES LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/678
+#EXTINF:-1,TNT SERIES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/486
+#EXTINF:-1,TNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/447
+#EXTINF:-1,TODO MUNDO ODEIA O CRIS UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/710
+#EXTINF:-1,TOM & JERRY HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/713
+#EXTINF:-1,TOONCAST HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/275
+#EXTINF:-1,TOONCAST LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/677
+#EXTINF:-1,TOONCAST UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/274
+#EXTINF:-1,TRACE BRAZUCA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/544
+#EXTINF:-1,TRAVEL BOX BRASIL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/534
+#EXTINF:-1,TRAVEL BOX BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/442
+#EXTINF:-1,TRU TV HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/745
+#EXTINF:-1,TV ANHANGUERA GOIANIA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/624
+#EXTINF:-1,TV APARECIDA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/553
+#EXTINF:-1,TV BRASIL 2 UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/704
+#EXTINF:-1,TV BRASIL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/548
+#EXTINF:-1,TV BRASIL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/703
+#EXTINF:-1,TV CAMARA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/299
+#EXTINF:-1,TV CENTRO AMERICA CUIABA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/630
+#EXTINF:-1,TV CULTURA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/639
+#EXTINF:-1,TV DIARIO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/744
+#EXTINF:-1,TV ESCOLA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/298
+#EXTINF:-1,TV EVANGELIZAR HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/695
+#EXTINF:-1,TV GAZETA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/626
+#EXTINF:-1,TV Gazeta Vitoria ES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/700
+#EXTINF:-1,TV JUSTICA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/297
+#EXTINF:-1,TV LIBERAL BELEM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/612
+#EXTINF:-1,TV MORENA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/638
+#EXTINF:-1,TV NOVO TEMPO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/551
+#EXTINF:-1,TV RA TIM BUM  4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/529
+#EXTINF:-1,TV RA TIM BUM HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/277
+#EXTINF:-1,TV SANTA CRUZ UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/702
+#EXTINF:-1,TV SENADO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/296
+#EXTINF:-1,TV TEM BAURU UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/623
+#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/627
+#EXTINF:-1,TV TEM SOROCABA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/631
+#EXTINF:-1,TV VANGUARDA S. J DOS CAMPOS
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/628
+#EXTINF:-1,TV VERDES MARES UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/621
+#EXTINF:-1,TVE HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/705
+#EXTINF:-1,UFC FIGHT PASS
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/759
+#EXTINF:-1,UFC PPV
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/758
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/419
+#EXTINF:-1,UNIVERSAL CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/485
+#EXTINF:-1,VH1 HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/743
+#EXTINF:-1,VIVA 4K
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/514
+#EXTINF:-1,VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/420
+#EXTINF:-1,VIVA UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/421
+#EXTINF:-1,WARNER CHANNEL HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/422
+#EXTINF:-1,WARNER CHANNEL UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/423
+#EXTINF:-1,WOOHOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/424
+#EXTINF:-1,ZOOMO HD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/279
+#EXTINF:-1,ZOOMO UHD
+http://testo.app-host11.xyz:2095/Tourobox1-lives6111619014/7130534032/278
